@@ -5,3 +5,8 @@ Tools & Skills
 
 How to Reach me
 - Email: aagar@uic.edu
+
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{NooNameAvailable}/count.svg" alt="Visitor's Count" />
+</div>
